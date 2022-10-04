@@ -1,3 +1,6 @@
+# Additional files to ignore
+ML
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
