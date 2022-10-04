@@ -1,6 +1,7 @@
 # Additional files to ignore
 ML
 .DS_Store
+LoanStats_2019Q1.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
